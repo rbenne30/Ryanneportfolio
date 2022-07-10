@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bennettportfolio/static/css/main.af8b582c.css",
+    "main.js": "/bennettportfolio/static/js/main.88ba8811.js",
+    "static/js/787.e4a851d5.chunk.js": "/bennettportfolio/static/js/787.e4a851d5.chunk.js",
+    "static/media/3.jpg": "/bennettportfolio/static/media/3.cad6c7be130ca9138a72.jpg",
+    "static/media/2.jpg": "/bennettportfolio/static/media/2.2bf889e3e86db589424f.jpg",
+    "static/media/0.jpg": "/bennettportfolio/static/media/0.47c69dc23c66f6c7bade.jpg",
+    "static/media/cover-image.jpg": "/bennettportfolio/static/media/cover-image.bb1776711cd0f043dc68.jpg",
+    "static/media/Ryanne-Web Developer.pdf": "/bennettportfolio/static/media/Ryanne-Web Developer.2a3a3874f948724340f1.pdf",
+    "index.html": "/bennettportfolio/index.html",
+    "main.af8b582c.css.map": "/bennettportfolio/static/css/main.af8b582c.css.map",
+    "main.88ba8811.js.map": "/bennettportfolio/static/js/main.88ba8811.js.map",
+    "787.e4a851d5.chunk.js.map": "/bennettportfolio/static/js/787.e4a851d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af8b582c.css",
+    "static/js/main.88ba8811.js"
+  ]
+}
