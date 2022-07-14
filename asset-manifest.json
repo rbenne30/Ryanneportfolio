@@ -1,16 +1,20 @@
 {
   "files": {
     "main.css": "/Ryanneportfolio/static/css/main.073c9b0a.css",
-    "main.js": "/Ryanneportfolio/static/js/main.9066bb47.js",
+    "main.js": "/Ryanneportfolio/static/js/main.54698a61.js",
     "static/js/787.2922ee28.chunk.js": "/Ryanneportfolio/static/js/787.2922ee28.chunk.js",
-    "static/media/logo.svg": "/Ryanneportfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/3.jpg": "/Ryanneportfolio/static/media/3.cad6c7be130ca9138a72.jpg",
+    "static/media/2.jpg": "/Ryanneportfolio/static/media/2.2bf889e3e86db589424f.jpg",
+    "static/media/0.jpg": "/Ryanneportfolio/static/media/0.47c69dc23c66f6c7bade.jpg",
+    "static/media/cover-image.jpg": "/Ryanneportfolio/static/media/cover-image.bb1776711cd0f043dc68.jpg",
+    "static/media/Ryanne-Web Developer.pdf": "/Ryanneportfolio/static/media/Ryanne-Web Developer.2a3a3874f948724340f1.pdf",
     "index.html": "/Ryanneportfolio/index.html",
     "main.073c9b0a.css.map": "/Ryanneportfolio/static/css/main.073c9b0a.css.map",
-    "main.9066bb47.js.map": "/Ryanneportfolio/static/js/main.9066bb47.js.map",
+    "main.54698a61.js.map": "/Ryanneportfolio/static/js/main.54698a61.js.map",
     "787.2922ee28.chunk.js.map": "/Ryanneportfolio/static/js/787.2922ee28.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.9066bb47.js"
+    "static/js/main.54698a61.js"
   ]
 }
