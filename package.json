@@ -1,7 +1,7 @@
 {
   "name": "ryanneportfolio",
   "version": "0.1.0",
-  "homepage": "https://rbenne30.github.io",
+  "homepage": "https://rbenne30.github.io/Ryanneportfolio" ,
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
