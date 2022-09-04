@@ -5,12 +5,13 @@ function Home() {
   return (
     <section>
       <h1 id="about">Ryanne Bennett Portfolio</h1>
-      <img src={coverimage} className="my-2" style={{ width: "80%" }} alt="cover" />
+      <img src={coverimage} className="my-2" style={{ width: "30%" }} alt="cover" />
       <header>
   <h2>
     <a href="/">
-      <span role="img" aria-label="camera"> </span> WEB DEVELOPER!
+      <span role="img" aria-label="camera"> </span> Full Stack Web Developer:
     </a>
+    ryannebennett1@outlook.com
   </h2>
   <nav>
     <ul className="flex-row">

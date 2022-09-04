@@ -7,6 +7,7 @@ import Footer from './components/pages/Footer';
 import Project from './components/pages/Project';
 import Resume from './components/pages/Resume';
 
+
 function App() {
   const [getState, setState] = useState('home');
 
@@ -22,6 +23,7 @@ function App() {
         return <Resume />
     }
   }
+  
 
   return (
     <>
