@@ -9,5 +9,4 @@ const NavTabs = props =>
       <button onClick={() => props.setState('resume')}>Resume</button>
     </nav>
 
-
 export default NavTabs;
